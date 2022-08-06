@@ -1,0 +1,2 @@
+voy a crear este archivo,usar git add,después git commit y no usar el git push para ver si se realizan cambios en el
+repo de github web :)
