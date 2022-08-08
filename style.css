@@ -1,6 +1,7 @@
 body {
-    background-color: chocolate;
+    background-color: beige;
     padding: 50px;
+    font-size: 25px;
 }
 h1 {
     background: linear-gradient( rgb(255, 34, 99),rgb(55, 89, 200),rgb(200, 100, 100));
